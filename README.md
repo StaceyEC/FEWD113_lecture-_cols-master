@@ -1,2 +1,2 @@
-# FEWD113_lecture-_cols-master
-This is our exercise on floaters
+# FEWD113_Lecture6_cols
+col grid w/floats
